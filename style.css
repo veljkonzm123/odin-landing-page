@@ -1,0 +1,18 @@
+body {
+  background-color: #1f2937;
+  font-family: "Roboto";
+  margin: 0px 48px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 12px;
+}
+.right-links {
+  display: flex;
+  gap: 16px;
+}
